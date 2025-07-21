@@ -28,6 +28,7 @@ from rl4co.models.zoo.deepaco import DeepACO, DeepACOPolicy
 from rl4co.models.zoo.eas import EAS, EASEmb, EASLay
 from rl4co.models.zoo.gfacs import GFACS, GFACSPolicy
 from rl4co.models.zoo.glop import GLOP, GLOPPolicy
+from rl4co.models.zoo.grpo import GRPO
 from rl4co.models.zoo.ham import (
     HeterogeneousAttentionModel,
     HeterogeneousAttentionModelPolicy,
