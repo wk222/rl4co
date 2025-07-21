@@ -26,8 +26,8 @@ from rl4co.models.zoo.amppo import AMPPO
 from rl4co.models.zoo.dact import DACT, DACTPolicy
 from rl4co.models.zoo.deepaco import DeepACO, DeepACOPolicy
 from rl4co.models.zoo.eas import EAS, EASEmb, EASLay
-from rl4co.models.zoo.glop import GLOP, GLOPPolicy
 from rl4co.models.zoo.gfacs import GFACS, GFACSPolicy
+from rl4co.models.zoo.glop import GLOP, GLOPPolicy
 from rl4co.models.zoo.ham import (
     HeterogeneousAttentionModel,
     HeterogeneousAttentionModelPolicy,
@@ -47,5 +47,6 @@ from rl4co.models.zoo.nargnn import NARGNNPolicy
 from rl4co.models.zoo.neuopt import NeuOpt, NeuOptPolicy
 from rl4co.models.zoo.polynet import PolyNet
 from rl4co.models.zoo.pomo import POMO
+from rl4co.models.zoo.prefdce import PreferenceDCE
 from rl4co.models.zoo.ptrnet import PointerNetwork, PointerNetworkPolicy
 from rl4co.models.zoo.symnco import SymNCO, SymNCOPolicy
